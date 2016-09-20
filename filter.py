@@ -9,7 +9,6 @@ import logging
 from lxml import etree
 import os
 import re
-from slugify import slugify
 from statistics import mean, stdev
 import sys
 import traceback
