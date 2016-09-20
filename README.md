@@ -5,3 +5,7 @@ Run like this:
 ```
 python filter.py ~/Documents/files/I/isaw-ga-3024.github.io/
 ```
+
+## Dependencies:
+
+ * lxml
